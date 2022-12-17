@@ -1,8 +1,10 @@
 # metaprogramming
 
-In Ruby, metaprogramming is the ability to write code that can manipulate and define other code at runtime. This is achieved through the use of special methods and techniques, such as reflection and code generation.
+In Ruby, metaprogramming is the ability to write code that can manipulate and define other code at runtime. This is achieved through the use of special methods and techniques, 
 
 Metaprogramming can be a powerful tool for making your code more flexible and reusable, but it can also be complex and difficult to understand, especially for beginners.
+
+Metaprogramming is writing code that writes code during runtime to make your life easier.
 
 Here is an example of metaprogramming in Ruby:
 
